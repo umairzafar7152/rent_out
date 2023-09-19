@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829655416750",
+    "project_id": "rent-out-83c5c",
+    "storage_bucket": "rent-out-83c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829655416750:android:18012ab481c3fe2380d23f",
+        "android_client_info": {
+          "package_name": "com.zafar.umair.rentout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829655416750-lr4ucdd3egf2fpbboqlq0p8mfc8krosv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGH3BcdS5IhGTj41izGvIxZ3W_2F5VFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829655416750-lr4ucdd3egf2fpbboqlq0p8mfc8krosv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

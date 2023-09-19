@@ -1,0 +1,23 @@
+package com.zafar.umair.rentoutadmin
+
+const val SPLASH_SCREEN = "SplashScreen"
+const val SETTINGS_SCREEN = "SettingsScreen"
+const val LOGIN_SCREEN = "LoginScreen"
+const val SIGN_UP_SCREEN = "SignupScreen"
+const val PRODUCTS_SCREEN = "ProductsScreen"
+const val RENT_REQUESTS_SCREEN = "RentRequestsScreen"
+const val RENT_REQUEST_ITEM_SCREEN = "RentRequestItemScreen"
+const val MY_PRODUCTS_SCREEN = "MyProductsScreen"
+const val PRODUCT_DETAILS_SCREEN = "ProductDetailsScreen"
+const val EDIT_MY_PRODUCT_SCREEN = "EditMyProductScreen"
+const val ALL_CHATS_SCREEN = "AllChatsScreen"
+const val MY_CHAT_SCREEN = "MyChatScreen"
+
+const val CHANNEL_ID = "channelId"
+const val RECIPIENT_ID = "recipientId"
+const val PRODUCT_ID = "productId"
+const val REQUEST_ID = "requestId"
+const val PRODUCT_ID_ARG = "?$PRODUCT_ID={$PRODUCT_ID}"
+const val CHANNEL_ID_ARG = "?$CHANNEL_ID={$CHANNEL_ID}&$RECIPIENT_ID={$RECIPIENT_ID}"
+const val REQ_ITEM_ARG = "?$REQUEST_ID={$REQUEST_ID}&$PRODUCT_ID={$PRODUCT_ID}"
+const val EXTERNAL_ID_ARG = "?$RECIPIENT_ID={$RECIPIENT_ID}"
